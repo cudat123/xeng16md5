@@ -1,5 +1,5 @@
 {
-  "name": "banlon",
+  "name": "baocxanlon",
   "version": "1.0.0",
   "main": "1.js",
   "scripts": {
@@ -8,6 +8,7 @@
   "dependencies": {
     "axios": "^1.13.2",
     "cors": "^2.8.5",
+    "ejs": "^3.1.10",
     "express": "^4.22.1",
     "fastify": "^5.6.2",
     "http": "^0.0.1-security",
